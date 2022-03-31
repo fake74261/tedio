@@ -1,0 +1,64 @@
+h1 {
+    text-align: center;
+}
+body {
+    font-family: 'verdana';
+}
+.atributo img {
+    height: 25px;
+    width: 25px;
+}
+.atributo {
+    padding-bottom: 5%;
+}
+#stats {
+    position: fixed;
+    right: 7%;
+    border: 2px solid black;
+    padding: 2%;
+    
+}
+#projeto {
+    background-color: red;
+}
+#cefet {
+    background-color: rgb(211, 97, 120);
+}
+#maze_runner {
+    background-color: lightgreen;
+}
+#comer {
+    background-color: rgb(235, 235, 115);
+}
+#dormir {
+    background-color: lightblue;
+}
+#cabelo {
+    background-color:rgb(184, 137, 228);
+}
+
+.botao {
+    padding-bottom: 1%;
+    
+}
+.botao button {
+    
+    padding: 1%;
+}
+#game_over {
+    display: none;
+    background-color: white;
+    padding: 1%;
+    font-size: 200%;
+    border: 3px solid black;
+    position: fixed;
+    right: 10%;
+    left: 10%;
+    top: 10%;
+    bottom: 10%;
+    text-align: center;
+}
+#game_over img {
+    height: 50px;
+    width: 50px;
+}
